@@ -1,0 +1,26 @@
+.band {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  padding: 6px;
+  transform: rotate(320deg) translate(-90px, -60px);
+}
+
+.band__is__alive {
+  background-color: #00FF22;
+}
+
+.band__is__not__alive {
+  background-color: #FF0000;
+}
+
+.card {
+  animation: appearance 1s  ease;
+}
+
+@keyframes appearance {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dlunadev7/RickAndMortyApp/static/css/main.4bb30f05.chunk.css",
+    "main.js": "/Dlunadev7/RickAndMortyApp/static/js/main.96e65684.chunk.js",
+    "main.js.map": "/Dlunadev7/RickAndMortyApp/static/js/main.96e65684.chunk.js.map",
+    "runtime-main.js": "/Dlunadev7/RickAndMortyApp/static/js/runtime-main.53c29c56.js",
+    "runtime-main.js.map": "/Dlunadev7/RickAndMortyApp/static/js/runtime-main.53c29c56.js.map",
+    "static/js/2.8319e031.chunk.js": "/Dlunadev7/RickAndMortyApp/static/js/2.8319e031.chunk.js",
+    "static/js/2.8319e031.chunk.js.map": "/Dlunadev7/RickAndMortyApp/static/js/2.8319e031.chunk.js.map",
+    "index.html": "/Dlunadev7/RickAndMortyApp/index.html",
+    "static/css/main.4bb30f05.chunk.css.map": "/Dlunadev7/RickAndMortyApp/static/css/main.4bb30f05.chunk.css.map",
+    "static/js/2.8319e031.chunk.js.LICENSE.txt": "/Dlunadev7/RickAndMortyApp/static/js/2.8319e031.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53c29c56.js",
+    "static/js/2.8319e031.chunk.js",
+    "static/css/main.4bb30f05.chunk.css",
+    "static/js/main.96e65684.chunk.js"
+  ]
+}
